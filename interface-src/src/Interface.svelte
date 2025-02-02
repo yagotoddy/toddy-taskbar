@@ -88,6 +88,6 @@
       ></div>
     </div>
   
-    <p class="text-sm text-white/60 font-medium">Pressione E quando a linha alcançar a barra.</p>
+    <p class="text-sm text-white/60 font-medium">Pressione E assim que a linha atingir a barra.</p>
   </div>
 {/if}
